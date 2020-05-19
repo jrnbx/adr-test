@@ -1,10 +1,10 @@
-# 2. First ADR, trying this out.
+# 3. this is this second ARD added to the repo.
 
 Date: 2020-05-19
 
 ## Status
 
-Superceded by [5. testing adding a ADR before another ADR.](0005-testing-adding-a-adr-before-another-adr.md)
+Superceded by [4. making this ADR show up before 3](0004-making-this-adr-show-up-before-3.md)
 
 ## Context
 

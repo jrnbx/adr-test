@@ -1,10 +1,12 @@
-# 2. First ADR, trying this out.
+# 5. testing adding a ADR before another ADR.
 
 Date: 2020-05-19
 
 ## Status
 
-Superceded by [5. testing adding a ADR before another ADR.](0005-testing-adding-a-adr-before-another-adr.md)
+Accepted
+
+Supercedes [2. First ADR, trying this out.](0002-first-adr-trying-this-out.md)
 
 ## Context
 
